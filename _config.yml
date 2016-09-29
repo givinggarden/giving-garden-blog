@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: support@givinggarden.io
 copyright_name: Giving Garden
 description: "Growing communities around food and food around communities!"
-baseurl: "/jekyll-startboostrap-clean"
+baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: givinggardenio
 facebook_username:  givinggardenio
