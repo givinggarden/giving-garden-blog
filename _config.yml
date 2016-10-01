@@ -1,25 +1,33 @@
-# Site settings
+---
 title: Giving Garden Blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 header-img: img/home-bg.jpg
 email: support@givinggarden.io
 copyright_name: Giving Garden
-description: "Growing communities around food and food around communities!"
-baseurl: ""
-url: "http://yourdomain.com"
+description: Growing communities around food and food around communities!
+baseurl: ''
+url: http://yourdomain.com
 twitter_username: givinggardenio
-facebook_username:  givinggardenio
+facebook_username: givinggardenio
 instagram_username: givinggardenio
-email_username:  support@givinggarden.io
-
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
-
-# Build settings
+email_username: support@givinggarden.io
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-gems: [jekyll-paginate, jekyll-feed]
+exclude:
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
+gems:
+- jekyll-paginate
+- jekyll-feed
