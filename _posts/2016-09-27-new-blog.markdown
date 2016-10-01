@@ -1,0 +1,10 @@
+---
+title: New Blog Yay!
+date: 2016-09-27 12:00:00 Z
+layout: post
+subtitle: it begins.
+author: jpknoll
+header-img: img/post-bg-01.jpg
+---
+
+This is our new blog!
