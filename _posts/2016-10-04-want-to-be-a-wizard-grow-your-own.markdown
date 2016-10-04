@@ -1,5 +1,5 @@
 ---
-title: Want to be a wizard? Grow your own food.
+title: Want to be a wizard? Start a garden.
 date: 2016-10-04 04:54:00 Z
 categories:
 - garden inspiration
