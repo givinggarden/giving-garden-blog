@@ -13,7 +13,6 @@ tags:
 layout: post
 ---
 
-![magician_by_araniart-d34x6yi-f4e781.jpg](/uploads/magician_by_araniart-d34x6yi-f4e781.jpg)
 If you love Lord of the Rings, magicians or fantastical things you should try growing your own food. When you put a plant or seed in the ground and you watch it grow and become an amazing bounty of fresh, yumminess you'll feel like a powerful and awesome gardening wizard. It's magical. 
 
 It's also healthy, good for the environment, and a great way to calm nerves and recharge from our screen-time crammed lives. 
