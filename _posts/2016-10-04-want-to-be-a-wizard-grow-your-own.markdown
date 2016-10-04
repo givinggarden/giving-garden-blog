@@ -18,5 +18,3 @@ If you love Lord of the Rings, magicians or fantastical things you should try gr
 It's also healthy, good for the environment, and a great way to calm nerves and recharge from our screen-time crammed lives. 
 
 But mainly it's fun to feel like a wizard. And fresh tomatoes kick all store bought tomatoes to the curb.
-
-photo credit: http://araniart.deviantart.com/art/Magician-189665658
