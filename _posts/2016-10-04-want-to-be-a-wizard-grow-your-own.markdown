@@ -10,6 +10,7 @@ tags:
 - garden
 - urban gardening
 - urban farming
+layout: post
 ---
 
 If you love Lord of the Rings, magicians or fantastical things you should try growing your own food. When you put a plant or seed in the ground and you watch it grow and become an amazing bounty of fresh, yumminess you'll feel like a powerful and awesome gardening wizard. It's magical. 
