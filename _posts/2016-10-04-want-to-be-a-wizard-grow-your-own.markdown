@@ -10,7 +10,7 @@ tags:
 - garden
 - urban gardening
 - urban farming
-header-img: "/uploads/home-bg.jpg"
+header-img: "/uploads/magician_by_araniart-d34x6yi-f4e781.jpg"
 layout: post
 ---
 
