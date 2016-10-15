@@ -22,8 +22,9 @@ You will need:
 
 We highly suggest local ingredients because they provide the best and freshest quality to make this scrub for your skin. When it comes to putting something your skin, it is very important to have clean and non-harmful products.
 
+[IMG_0135-7d6f22.JPG](/uploads/IMG_0135-7d6f22.JPG)
 
-Mix everything together and tada! You have your very own lip scrub. We bet you already had these ingredients inside your kitchen, too! So there you go, get wild with it. Reuse your coffee grounds
+Mix everything together and tada! You have your very own lip scrub. We bet you already had these ingredients inside your kitchen, too! So there you go, get wild with it. Reuse your coffee grounds, use the left over beet juice to make it a tinted scrub. Get creative; there are so many ways to reuse your food. Don't let any of those goodies go to waste!
 
 
 
