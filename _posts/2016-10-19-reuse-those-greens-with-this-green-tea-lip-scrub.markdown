@@ -10,6 +10,8 @@ layout: post
 
 We came up with an easy and inexpensive DIY remedy that puts left overs from your hot tea to use, to cure those cold weather chapped lips. Our green tea scrub will quench your lips better than religiously reapplying chapstick every hour, an inefficient habit that doesn't work if your lips aren't properly exfoliated!
 
+[IMG_0135-7d6f22.JPG](/uploads/IMG_0135-7d6f22.JPG)
+
 [IMG_0132-b944ed.JPG](/uploads/IMG_0132-b944ed.JPG)
 
 You may not have known, but green tea is just as good for you on the outside as it is on the inside? It provides antioxidants and vitamin B for your skin. It also reduces redness and swelling. 
