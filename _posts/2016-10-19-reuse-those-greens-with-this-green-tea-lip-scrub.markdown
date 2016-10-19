@@ -23,7 +23,6 @@ Step 2: Gather your ingredients:
 
 We highly suggest local ingredients because they provide the best and freshest quality to make this scrub for your skin. When it comes to putting something on your skin, it's very important to have clean and non-harmful products.
 
-
 Step 3: Mix everything together and tada! You have your very own lip scrub. 
 
 [IMG_0135.JPG](/uploads/IMG_0135.JPG)
