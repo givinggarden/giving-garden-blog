@@ -5,7 +5,7 @@ tags:
 - natural
 - diy
 - recycle
-header-img: "![IMG_0135-7d6f22.JPG](/uploads/IMG_0135-7d6f22.JPG)"
+header-img: uploads/IMG_0135-7d6f22.JPG
 layout: post
 ---
 
@@ -30,7 +30,5 @@ Step 2: Gather your ingredients:
 We highly suggest local ingredients because they provide the best and freshest quality to make this scrub for your skin. When it comes to putting something on your skin, it's very important to have clean and non-harmful products.
 
 Step 3: Mix everything together and tada! You have your very own lip scrub. 
-
-![IMG_0135.JPG](/uploads/IMG_0135.JPG)
 
 We bet you already had these ingredients inside your kitchen, too. Reuse your coffee grounds for more texture or use leftover beet juice (from your garden beets) to make it a tinted scrub. Get creative; there are so many ways to reuse your food. Don't let any of those goodies go to waste!
