@@ -1,6 +1,7 @@
 ---
 title: Reuse Those Greens With This Green Tea Lip Scrub
 date: 2016-10-19 18:46:00 Z
+layout: post
 ---
 
 We came up with an easy and inexpensive DIY remedy that puts left overs from your hot tea to use, to cure those cold weather chapped lips. Our green tea scrub will quench your lips better than religiously reapplying chapstick every hour, an inefficient habit that doesn't work if your lips aren't properly exfoliated!
