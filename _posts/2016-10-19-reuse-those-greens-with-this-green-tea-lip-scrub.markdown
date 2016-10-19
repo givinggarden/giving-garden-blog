@@ -1,6 +1,10 @@
 ---
 title: Reuse Those Greens With This Green Tea Lip Scrub
 date: 2016-10-19 18:46:00 Z
+tags:
+- natural
+- diy
+- recycle
 layout: post
 ---
 
