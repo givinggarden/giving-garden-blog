@@ -1,6 +1,15 @@
 ---
 title: Morning Glories Aren't All That Glorious
 date: 2016-10-21 17:43:00 Z
+categories:
+- gardening
+- history
+tags:
+- gardening
+- sunflowers
+- morning glories
+- history
+- fun facts
 header-img: 
 ---
 
