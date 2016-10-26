@@ -16,7 +16,7 @@ When applying used tea grounds to improve plant growth, mix the loose tea leaves
 
 Coffee grounds act in a similar way. They work best for blueberries and other fruit trees. When piling it on, make sure to add a good half-inch thick layer on top of your soil; too much will become moldy mulch! It will break down quickly and when it does, you can add more. 
 
-Another benefit of putting coffee grounds on top of your soil is that it serves as a natural slug repeller. Slugs don't enjoy crawling atop coffee grounds due to the texture so if you're ever having a slug problem, this will solve all of your problems. 
+Another benefit of putting coffee grounds on top of your soil is that it serves as a natural slug repeller. Slugs don't enjoy crawling atop coffee grounds due to the texture so if you're ever having a slug infestation, this will solve all of your problems. 
 
 
 Good luck and get gardening!
