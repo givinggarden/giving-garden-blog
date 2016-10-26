@@ -10,7 +10,7 @@ tags:
 
 Often times after our routine dose of morning tea or coffee, we throw out the loose leaves or grounds of coffee thinking they've served their use for us. However, there's actually much more about these leftovers that can serve even more good.
 
-You can save these leaves or grounds and actually put them into your soil. It's important that we cut back waste generate, reuse and recycle items at home, and give back to our earth. Grounds and fresh leaves act as a fertilizer and helps improve the overall plant's growth, health and vigor!
+You can save these leaves or grounds and actually put them into your soil. It's important that we cut back on the waste generated, reuse and recycle items at home, and give back to our earth. Grounds and fresh leaves act as a fertilizer and helps improve the overall plant's growth, health and vigor!
 
 When applying used tea grounds to improve plant growth, mix the loose tea leaves directly into the plant’s soil, or spread the tea leaves around the top soil like mulch. If you want to add tea grounds to your vegetable and edible garden plants, do so indirectly, with organic compost. Adding straight tea grounds to garden soil during periods of active growth may disturb your garden’s pH balance or affect the flavor of your crops! 
 
