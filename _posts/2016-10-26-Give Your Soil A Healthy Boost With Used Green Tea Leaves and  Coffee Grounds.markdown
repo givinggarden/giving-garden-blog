@@ -10,6 +10,7 @@ tags:
 - recycle
 - homegrown
 - diy
+layout: post
 ---
 
 ![TROPICAL.jpg](/uploads/TROPICAL.jpg)
