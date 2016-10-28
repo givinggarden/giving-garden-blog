@@ -33,4 +33,8 @@ Step 3: Mix everything together and tada! You have your very own lip scrub.
 
 We bet you already had these ingredients inside your kitchen, too. Reuse your coffee grounds for more texture or use leftover beet juice (from your garden beets) to make it a tinted scrub. Get creative; there are so many ways to reuse your food. Don't let any of those goodies go to waste!
 
+--------------------------------------------------
+
 Learn more about [GivingGarden](http://givinggarden.io), our mission to grow communities around food and food around communities. Plus sign up to be the first to get our Android and iOS app that will help you grow food and connect with local food enthusiasts and gardeners!
+
+Follow us on [Twitter](https://twitter.com/GivingGardenIO) and [Facebook](https://www.facebook.com/givinggardenIO/) and share your local food and gardening stories with us. We'd love to hear about them!
