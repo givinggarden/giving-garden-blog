@@ -4,6 +4,12 @@ date: 2016-10-26 21:03:00 Z
 tags:
 - green tea
 - gardening tips
+- garden
+- gardening
+- reuse
+- recycle
+- homegrown
+- diy
 ---
 
 ![TROPICAL.jpg](/uploads/TROPICAL.jpg)
