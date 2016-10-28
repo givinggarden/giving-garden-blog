@@ -14,8 +14,6 @@ header-img: uploads/home-bg-985082.jpg
 layout: post
 ---
 
-![TROPICAL.jpg](/uploads/TROPICAL.jpg)
-
 Often times after our routine dose of morning tea or coffee, we throw out the loose leaves or used grounds of coffee thinking they've served their only use. However, the  leftover remains from your warm cup of joe or tea can serve some extra good in your garden.
 
 You can save the leaves or grounds and put them into your soil for added texture and soil health. These grounds and fresh leaves will act as a fertilizer and help improve the overall plant's growth, health and vigor.  
