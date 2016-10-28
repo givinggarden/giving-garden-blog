@@ -10,6 +10,7 @@ tags:
 - recycle
 - homegrown
 - diy
+header-img: uploads/home-bg-985082.jpg
 layout: post
 ---
 
