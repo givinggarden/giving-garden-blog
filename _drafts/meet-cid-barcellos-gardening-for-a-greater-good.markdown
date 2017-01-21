@@ -1,6 +1,8 @@
 ---
 title: 'Meet Cid Barcellos: Gardening for a Greater Good'
 date: 2017-01-21 21:45:00 Z
+categories:
+- garden inspiration
 tags:
 - garden
 - gardening
