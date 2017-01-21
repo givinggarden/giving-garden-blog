@@ -48,5 +48,6 @@ So tell us about Gracie.
 “She started showing up about 3 years ago… 3 and a half years ago, maybe. This little grey cat was out here and she chased all the other cats away, so I figured (Gracie) would be of  help. I thought, you know, well I got to feed her something. It didn’t look like she had a home so I started feeding her. So, now she has a home, but she's chased those squirrels up the tree. One time I was out there and I go, “Gracie what are you doing?” She was on the ground so I started walking over and she moved. There was a hummingbird underneath her paw. She had a hummingbird and I said, “You didn’t?!” So I went over and picked the hummingbird up and it flew away.”
 
 
+
 What’s the thing that drives you since you’re not really even eating the food and most of it’s being donated.
 “You know the sign out there that says it’s therapy? It really is. It’s really calming. I feel connected to God and to earth and being able to create something not on my terms. It can’t be on my terms. The seasons come and they go and they move along, but it’s just very… it just fills me up… it gives me energy. 
