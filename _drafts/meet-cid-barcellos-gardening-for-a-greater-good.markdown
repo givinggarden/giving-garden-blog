@@ -11,6 +11,8 @@ tags:
 - featured
 ---
 
+![IMG_5856.jpg](/uploads/IMG_5856.jpg)
+
 Grace Garden of the Davis United Methodist Church, located at the heart of our very own hometown, is a sustainable garden with a cause.  Grace Garden’s goal is to, “grow community which nourishes the body and spirit,” and donate nearly all of their harvest to help feed the hungry. And behind their big mission is a gardener and community leader with a big heart to match. Her name is Cid Barcellos.
 
 From the ground up Cid has transformed the church’s empty lot space into a sustainable garden over the years. Harvesting for Davis Community Meals and finding therapy through the garden, in 2015 Cid was able to harvest 1,700 lbs of produce from the garden to spread throughout Davis. With the help of her many volunteers and their ga(u)rden cat, Gracie, Cid continues to spread not only her harvest, but shares her knowledge as a master gardener throughout the community.
@@ -22,9 +24,7 @@ In 2009 my friend from church took me to a Santa Rosa church with a garden...and
 
 The following year we put in four more 50 foot beds and then we put in the orchard, which now has 14 fruit trees. We did it in increments. It took about three years, I think, to get the whole thing out there. There were lots of volunteers from campus. This year has just…. blown me away. The gal who does our computer and website work, she also does it as a volunteer. This year she got it onto the website on campus … and there’s people that come out just to get community service hours. I’ve had like 10-15 (volunteers) every work day. I’m just blown away.”
 
-[image]
-
-
+![IMG_5846.jpg](/uploads/IMG_5846.jpg)
 Did you do anything to get help harvesting?
 Harvesting is probably one of the easiest jobs. No, I don’t have too much trouble with harvest...doesn’t take very long. But we get it and then we weigh everything so I keep track of how much, how many vegetables we get. It was interesting in 2015 we had 1,700 pounds, which is the most we’ve ever had and that included the fruit trees which are now fully grown.
 
@@ -44,12 +44,14 @@ Yeah because… that’s really where my heart lies and I’m passionate about i
 Are you volunteering now as a master gardener?
 “Yeah. All the hours I spend here is part of it, so yeah I have like 3,500 hours since I’ve started total, and that doesn’t count the part I've spent at home on the computer.”
 
-[image]
+![IMG_5851.jpg](/uploads/IMG_5851.jpg)
+![IMG_5848.jpg](/uploads/IMG_5848.jpg)
 
 So tell us about Gracie.
 “She started showing up about 3 years ago… 3 and a half years ago, maybe. This little grey cat was out here and she chased all the other cats away, so I figured (Gracie) would be of  help. I thought, you know, well I got to feed her something. It didn’t look like she had a home so I started feeding her. So, now she has a home, but she's chased those squirrels up the tree. One time I was out there and I go, “Gracie what are you doing?” She was on the ground so I started walking over and she moved. There was a hummingbird underneath her paw. She had a hummingbird and I said, “You didn’t?!” So I went over and picked the hummingbird up and it flew away.”
 
-
+![IMG_5847.jpg](/uploads/IMG_5847.jpg)
+![IMG_5855.jpg](/uploads/IMG_5855.jpg)
 
 What’s the thing that drives you since you’re not really even eating the food and most of it’s being donated.
 “You know the sign out there that says it’s therapy? It really is. It’s really calming. I feel connected to God and to earth and being able to create something not on my terms. It can’t be on my terms. The seasons come and they go and they move along, but it’s just very… it just fills me up… it gives me energy. 
