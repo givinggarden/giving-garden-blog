@@ -39,7 +39,7 @@ One of the most important jobs we have is taste testing because I don’t want t
 You started being a master gardener when you were in Portland in 1986?
 Yes. I did it in Portland. Now portland is so different from here. Their soil is nice, their water is clean, their temperatures are cooler, everything grows there. Well, I am a native Californian and then we moved to Portland from 1981-1991 and then we came back for my husband’s job. Between 1991 and 98, 7 years there… I wasn’t in the master gardener program to put it that way. I thought I knew something about gardening. Then I went, “I know nothing about gardening.” You know, you kind of have to build on it.
 
- Why did you decide to get back involved in the master gardener program?
+Why did you decide to get back involved in the master gardener program?
 Yeah because… that’s really where my heart lies and I’m passionate about it. I took the classes all over again because I thought ok that was 86, it’s now 98. I need a refresher.
 
 Are you volunteering now as a master gardener?
